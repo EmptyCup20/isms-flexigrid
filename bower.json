@@ -7,7 +7,7 @@
   "main": [
     "dist/js/flexigrid.js",
     "dist/css/flexigrid.css",
-    "dist/css/images"
+    "dist/css/images/*"
   ],
   "license": "ISC",
   "homepage": "https://github.com/EmptyCup20/isms-flexigrid",
