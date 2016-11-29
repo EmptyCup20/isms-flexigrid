@@ -1,0 +1,19 @@
+{
+  "name": "isms-flexigrid",
+  "version": "1.0.0",
+  "description": "hikly1.0 flexigrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmptyCup20/isms-flexigrid.git"
+  },
+  "author": "xiangxiao3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmptyCup20/isms-flexigrid/issues"
+  },
+  "homepage": "https://github.com/EmptyCup20/isms-flexigrid#readme"
+}

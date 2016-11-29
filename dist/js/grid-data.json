@@ -1,0 +1,8 @@
+{
+	"total":90,
+	"page":2,
+	"rows":[
+		//{"id":"1","cell":["name","ip"]}//flexigrid格式（非标准格式）
+		//{"name":"name","ip":"ip","obj":"{'a':'a'}","array":"[1,2,3]"}//标准格式
+	]
+}
