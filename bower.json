@@ -1,9 +1,13 @@
 {
   "name": "ismsflexigrid",
   "description": "hikly1.0 flexigrid",
-  "main": "index.js",
   "authors": [
     "xiangxiao3"
+  ],
+  "main": [
+    "dist/js/flexigrid.js",
+    "dist/css/flexigrid.css",
+    "dist/css/images"
   ],
   "license": "ISC",
   "homepage": "https://github.com/EmptyCup20/isms-flexigrid",
